@@ -1,0 +1,15 @@
+0      26     alloca          64     0    46       18    
+1      27     alloca          64     0    45       19    
+2      28     alloca          64     0    49       15    
+3      29     alloca          64     2    47       15    
+4      30     alloca          64     0    48       16    
+5      31     alloca          64     2    44       18    
+6      32     alloca          64     5    48       11    
+7      37     load            32     0    2        30    
+8      38     icmp            1      0    1        0     
+9      44     load            64     1    63       0     
+10     45     getelementptr   64     0    64       0     
+11     46     load            64     0    64       0     
+12     47     call            64     3    61       0     
+13     50     load            64     4    60       0     
+14     51     load            32     16   16       0     
